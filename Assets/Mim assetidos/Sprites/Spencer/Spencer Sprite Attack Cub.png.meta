@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: ae5014b58f4f3c44ba1132f6bab43015
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spencer Sprite Attack Cub_0
+    21300002: Spencer Sprite Attack Cub_1
+    21300004: Spencer Sprite Attack Cub_2
+    21300006: Spencer Sprite Attack Cub_3
+    21300008: Spencer Sprite Attack Cub_4
+    21300010: Spencer Sprite Attack Cub_5
+    21300012: Spencer Sprite Attack Cub_6
+    21300014: Spencer Sprite Attack Cub_7
+    21300016: Spencer Sprite Attack Cub_8
+    21300018: Spencer Sprite Attack Cub_9
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2918
+        width: 200
+        height: 330
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11c9cb3e53b1f3438b4860a308fc46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_1
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2918
+        width: 212
+        height: 330
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec6e419ba095134ea68b59c882bdd46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_2
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2918
+        width: 219
+        height: 330
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45efee2992359c449e9248e147c464b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2918
+        width: 194
+        height: 330
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a17d519e9f1aed498ef3c14edd7cbc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2316
+        width: 151
+        height: 343
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0815782402ded444b67912c0bd26b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2439
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1ec7ca5f7efb4abb9f20799e5a5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2315
+        width: 193
+        height: 331
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485f47b87aa6a148b47c12ec0a753f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_7
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2315
+        width: 216
+        height: 331
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2931d30be155459a1934b1085b3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_8
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2316
+        width: 215
+        height: 330
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d036807861f9d478daba6343f3c490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spencer Sprite Attack Cub_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2406
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7592faef952d428528d34b61555bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 460485ccae5945149975ceba54d19c47
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

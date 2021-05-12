@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: b3dec87c0afdc054fb3df1f3fb1de9ae
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Itens Cen\xE1rio da Mina de Plutonio_0"
+    21300002: "Itens Cen\xE1rio da Mina de Plutonio_1"
+    21300004: "Itens Cen\xE1rio da Mina de Plutonio_2"
+    21300006: "Itens Cen\xE1rio da Mina de Plutonio_3"
+    21300008: "Itens Cen\xE1rio da Mina de Plutonio_4"
+    21300010: "Itens Cen\xE1rio da Mina de Plutonio_5"
+    21300012: "Itens Cen\xE1rio da Mina de Plutonio_6"
+    21300014: "Itens Cen\xE1rio da Mina de Plutonio_7"
+    21300016: "Itens Cen\xE1rio da Mina de Plutonio_8"
+    21300018: "Itens Cen\xE1rio da Mina de Plutonio_9"
+    21300020: "Itens Cen\xE1rio da Mina de Plutonio_10"
+    21300022: "Itens Cen\xE1rio da Mina de Plutonio_11"
+    21300024: "Itens Cen\xE1rio da Mina de Plutonio_12"
+    21300026: "Itens Cen\xE1rio da Mina de Plutonio_13"
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_0"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 4739
+        width: 239
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668174a8275030445ae7b0b968c16148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_1"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4814
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4647726d1038874d997b4b8368379e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_2"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3848
+        width: 197
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d664758f06036645bec7c2ad94bc765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_3"
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 3866
+        width: 236
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2e0a3aa1e7d04ca79e422f5e933a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_4"
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3791
+        width: 506
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa86043ec4d275488b38b28ce6c2ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_5"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2999
+        width: 239
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9564b2b121e540ac1574dce6e0979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_6"
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1770
+        width: 473
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc0c681dc7402468d96126d36004cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_7"
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1277
+        width: 236
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca4a74e4dd7ff45b3a0b2a79eafa5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_8"
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 1268
+        width: 200
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da70c0c4d43402489ca755ae5c8f4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_9"
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1259
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a4b063afcd9144a846dad1084d3e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_10"
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1262
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2c09e185e157244b3632c1d6ad8184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_11"
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1262
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06666d6c34ea4bd49b13c0dd352cd671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_12"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 59
+        width: 239
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d4d73bd31379479f4cde36e8c2ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Itens Cen\xE1rio da Mina de Plutonio_13"
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 137
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bccb56a2d039e045995a65103318dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 271e9baa20863b74097bb01c1128ebdd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
